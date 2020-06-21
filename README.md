@@ -1,2 +1,2 @@
-hello from Mario -- tego nie zobacza moi koledzy
+hello from Mario -- zmienilem zdanie, chce zeby to wszyscy zobaczyli
 hello from Henry
